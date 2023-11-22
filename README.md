@@ -8,9 +8,9 @@ Last version released on 11/22/2023.
 <h2>Usage</h2>
 To run the program, you must initially compile and run the Server.java file. The server once started will wait for a client connection. To establish the connection with the client, compile and run ClientLoginGUI.java, an interface will open where the user will be prompted to log in to the system.
 
-To summarize, in order to run Online Service you must:
--Run the server 
--Run the client
+To summarize, in order to run Online Service you must:<br>
+-Run the server <br>
+-Run the client<br>
 
 Once authenticated with username and password (see next paragraph for more information), it will be possible to select the various operations available on the products and follow the steps provided.
 
